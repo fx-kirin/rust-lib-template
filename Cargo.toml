@@ -1,0 +1,14 @@
+[package]
+name = "{{project-name}}"
+description = "{{project-name}}."
+version = "0.0.0"
+authors = ["Fx Kirin <fx.kirin@gmail.com>"]
+repository = "https://github.com/fx-kirin/{{project-name}}"
+documentation = "https://docs.rs/{{project-name}}"
+license = "MIT"
+readme = "README.md"
+edition = "2019"
+
+[dependencies]
+
+[dev-dependencies]
